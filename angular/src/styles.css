@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+.dx-toast-custom {
+    background-color: #F05B41;
+    border-radius: 5%;
+    padding: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
