@@ -1,10 +1,10 @@
 import { Injectable } from '@angular/core';
 
-export class Billionaires {
-  country: string | undefined;
+// export class Billionaires {
+//   country: string | undefined;
 
-  amount: number | undefined;
-}
+//   amount: number| undefined;
+// }
 
 const billionaires: Billionaires[] = [
   {
